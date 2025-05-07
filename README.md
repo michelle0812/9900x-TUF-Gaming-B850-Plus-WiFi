@@ -1,7 +1,7 @@
 # Successed: AMD R9 9900X ASUS TUF GAMING B850 Plus WiFi
 <table>
   <tr>
-    <td>處理器</td>AMD Ryzen 9 9900X</td>
+    <td>處理器</td><td>AMD Ryzen 9 9900X</td>
   </tr>
   <tr>
     <td>主機板</td><td>ASUS TUF GAMING B850 Plus WiFi</td>
