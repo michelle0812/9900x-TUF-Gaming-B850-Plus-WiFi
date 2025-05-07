@@ -24,4 +24,3 @@ Building
 
 <img width="450" src="https://github.com/user-attachments/assets/2655c593-0d8e-4406-bd0d-a0584cc84a27"><br>
 <img width="450" src="https://github.com/user-attachments/assets/7536b84d-3594-446f-b12d-6b834ece3a13"><br>
-<img width="450" src="https://github.com/user-attachments/assets/4e942b17-185c-4b01-9299-b55a7ce84de4"><br>
