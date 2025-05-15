@@ -19,7 +19,7 @@
     <td>固態硬碟</td><td>Cruical MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 15.4.1 + OpenCore 1.0.4</td>
+    <td>系統</td><td>macOS Ventura 15.5 + OpenCore 1.0.4</td>
   </tr>  
 </table>
 
