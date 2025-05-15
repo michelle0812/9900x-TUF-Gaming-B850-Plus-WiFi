@@ -25,8 +25,6 @@
 
 Building
 
-<img width="450" src="https://github.com/user-attachments/assets/efd508e0-b720-47a8-a328-83b2ff889149"><br>
+<img width="700" src="https://github.com/user-attachments/assets/18a07b9e-c602-46ba-a047-e2050c5b4336"><br>
 <img width="450" src="https://github.com/user-attachments/assets/2655c593-0d8e-4406-bd0d-a0584cc84a27"><br>
 <img width="450" src="https://github.com/user-attachments/assets/7536b84d-3594-446f-b12d-6b834ece3a13"><br>
-<img width="450" src="https://github.com/user-attachments/assets/9b4e0994-0658-4716-b01a-a404b35e2524"><br>
-
