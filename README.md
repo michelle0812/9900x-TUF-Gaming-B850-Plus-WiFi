@@ -13,7 +13,7 @@
     <td>記憶體</td><td>DDR5-6400 16GB*2</td>
   </tr>
   <tr>
-    <td>dGPU</td><td>MSI RX560</td>
+    <td>dGPU</td><td>Sapphire RX570</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Cruical MX500 1TB</td>
