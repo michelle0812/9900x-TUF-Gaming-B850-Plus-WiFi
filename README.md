@@ -25,12 +25,12 @@
     <td>內建網卡</td><td>RTL8125"D"</td>
   </tr>  
   <tr>
-    <td>系統</td><td>macOS Sequoia 15.5 + OpenCore 1.0.5</td>
+    <td>系統</td><td>macOS Sequoia 15.6 + OpenCore 1.0.6</td>
   </tr>  
 </table>
 
 Building
-
+<img width="700" src="https://github.com/user-attachments/assets/17460334-a8b9-4be3-b0ee-b5033054b492"><br>
 <img width="700" src="https://github.com/user-attachments/assets/18a07b9e-c602-46ba-a047-e2050c5b4336"><br>
 <img width="450" src="https://github.com/user-attachments/assets/2655c593-0d8e-4406-bd0d-a0584cc84a27"><br>
 <img width="450" src="https://github.com/user-attachments/assets/7536b84d-3594-446f-b12d-6b834ece3a13"><br>
