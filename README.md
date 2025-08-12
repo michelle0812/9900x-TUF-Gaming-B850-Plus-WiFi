@@ -7,7 +7,7 @@
     <td>主機板</td><td>ASUS TUF GAMING B850 Plus WiFi</td>
   </tr>
   <tr>
-    <td>BIOS</td><td>Ver.1028(2025/07/2 TW)</td>
+    <td>BIOS</td><td>Ver.1028(2025/07/22 TW)</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR5-6400 16GB*2</td>
