@@ -22,6 +22,9 @@
     <td>SATA SSD</td><td>Cruical MX500 1TB</td>
   </tr>
   <tr>
+    <td>內建網卡</td><td>RTL8125"D"</td>
+  </tr>  
+  <tr>
     <td>系統</td><td>macOS Sequoia 15.5 + OpenCore 1.0.5</td>
   </tr>  
 </table>
