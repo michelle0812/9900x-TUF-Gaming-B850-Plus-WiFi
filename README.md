@@ -25,7 +25,7 @@
     <td>內建網卡</td><td>RTL8125"D"</td>
   </tr>  
   <tr>
-    <td>系統</td><td>macOS Tahoe 26.2.6 + OpenCore 1.0.7</td>
+    <td>系統</td><td>macOS Tahoe 26.2 + OpenCore 1.0.7</td>
   </tr>  
 </table>
 <img width="450" src="https://github.com/user-attachments/assets/2655c593-0d8e-4406-bd0d-a0584cc84a27"><br>
